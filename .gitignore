@@ -1,4 +1,3 @@
 _site/
-.sass-cache/
-_vendor
-.DS_Store
+_vendor/
+.ruby-version

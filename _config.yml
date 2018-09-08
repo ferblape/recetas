@@ -1,6 +1,6 @@
-title: Recetas Naranjas
+title: Recetas
 # url: "https://recetas.sofanaranja.com" # need to change this when we use our own site
-github_repo:  https://github.com/bomberstudios/recetas
+github_repo:  https://github.com/ferblape/recetas
 
 # Build settings
 kramdown:
