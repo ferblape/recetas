@@ -4,19 +4,23 @@ date: 2018-09-10
 dificultad: fácil
 tiempo: 30 minutos
 image: https://elcomidista.elpais.com/elcomidista/2012/01/16/articulo/1326693600_132669.html
-cantidad: 4 personas
+cantidad: 5 raciones
 ingredientes:
+  - nombre: puerro
+    cantidad: 1
+  - nombre: ajo
+    cantidad: 1
   - nombre: zanahorias
-    cantidad: 750 gramos
+    cantidad: 1.750 gramos
   - nombre: naranjas para hacer zumo
-    cantidad: 3
+    cantidad: 4
   - nombre: mantequilla
     cantidad: 100 gramos
-  - nombre: caldo de pollo o agua
-    cantidad: 1 vaso grande
+  - nombre: agua
+    cantidad: 2 vasos grande
   - nombre: perejil o cilantro
   - nombre: sal
-  - nombre: bicarbonato
+  - nombre: yogurt
     cantidad: 1 cuchara
 fuente:
   nombre: El Comidista
