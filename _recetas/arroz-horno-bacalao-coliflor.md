@@ -41,4 +41,4 @@ fuente:
 
 - Cuando esté todo listo sacamos la cazuela de barro del horno y añadimos la coliflor, el arroz con el bacalo y los ajetes y los garbanzos. Cubrimos de caldo hasta arriba y metemos en el horno.
 
-- En el horno tendrá que estar entre 20 y 25 minutos. Lo normal es que cuando se queden sin caldo ya esté listo el arroz, pero puedes probar y si está duro le añades un poco de caldo y lo mantienes 5 minutos más.
+- En el horno tendrá que estar 18 minutos. Lo normal es que cuando se queden sin caldo ya esté listo el arroz, pero puedes probar y si está duro le añades un poco de caldo y lo mantienes 5 minutos más.
