@@ -2,6 +2,9 @@ title: Recetas
 # url: "https://recetas.sofanaranja.com" # need to change this when we use our own site
 github_repo:  https://github.com/ferblape/recetas
 
+url: "https://ferblape.github.io"
+baseurl: "recetas"
+
 # Build settings
 kramdown:
   extensions: ['smart', 'no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'with_toc_data']
